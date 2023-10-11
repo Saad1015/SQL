@@ -1,0 +1,7 @@
+Write a simple and easy c sharp program that prints the following pattern up to n rows (where n is user input).
+
+      *
+     *** 
+    *****
+   *******
+ *********
